@@ -1,4 +1,4 @@
 ReactDOM.render(
-    <h1>Reactisawesome!</h1>,
+    <h1>React is awesome!</h1>,
     document.getElementById('container')
 );
